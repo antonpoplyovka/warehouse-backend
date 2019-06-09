@@ -1,0 +1,28 @@
+#createRouteButton {
+    margin-top: 10px;
+}
+
+.nav-item {
+
+    font-size: 27px;
+
+    font-weight: bold;
+
+}
+
+.container {
+    margin-top: 25px;
+}
+
+.btn-primary {
+    margin-top: 5px;
+}
+
+button {
+
+    margin-outside: 5px;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+}
